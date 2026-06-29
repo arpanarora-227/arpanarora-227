@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/006/362/890/original/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg)
+![MasterHead](https://camo.githubusercontent.com/b43d0c29a40c0f2c0d026a137730d9bbede4cd92e9bc56a6b9e83d08be3dd670/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3663333839335f36306230326635373739616234613233396137313566343162613661303037657e6d76325f645f353030305f313434375f735f322e676966)
 <h1 align="center">Hi 👋, I'm Arpan Arora</h1>
 <h3 align="center">Data Engineering</h3>
 <p align="center">Recent CS grad learning building data pipelines and analytics. Targeting roles on the path to Data Engineering.</p>
